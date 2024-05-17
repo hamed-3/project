@@ -2,17 +2,17 @@
   "mısır": [
     {
       "isim": "cairo",
-      "aciklama": "en güzel yer dünyada olabılır",
+      "aciklama": "Kahire şehri, Kahire'nin bin yıldan çok daha eski olması nedeniyle “Doğu'nun Mücevheri” olarak anılması nedeniyle Doğu'nun en fazla yazıya ve tarihe sahip şehirlerinden biridir.",
       "fotourl": "https://github.com/hamed-3/project/blob/main/cairo-guide.jpg?raw=true"
     },
     {
       "isim": "Giza",
-      "aciklama": "çok eskı mısrda",
+      "aciklama": "Giza piramit kompleksi, Büyük Piramit (Khufu veya Keops Piramidi olarak da bilinir ve MÖ 2580-2560 civarında inşa edilmiştir), birkaç yüz metre güneybatıda bulunan biraz daha küçük Kefren Piramidi ve nispeten mütevazı Menkaure Piramidi'nden oluşuyordu. birkaç kilometre güneybatıda yer alıyor. Sfenks heykeli kompleksin doğu tarafında yer almaktadır. Bugün çoğu Mısırbilimci Sfenks'in başının Kral Kefren'in başı olduğu konusunda hemfikirdir. Bu ana anıtlara ek olarak, bunlara bağlı “Kraliçe” Piramitleri, köprüler ve Vadi Piramitleri olarak bilinen daha küçük anıtlar da bulunmaktadır.",
       "fotourl": "https://raw.githubusercontent.com/hamed-3/deneme/main/pir.jpg"
     },
     {
-      "isim": "Minya",
-      "aciklama": "çok eskı mısrda",
+      "isim": "mınya",
+      "aciklama": "Minya vilayeti Mısır'ın valiliklerinden biridir. Kuzeyde Beni Suef ile güneyde Assiut valilikleri arasında yer alır. Başkenti Minya'dır. Merkezi konumu ve barındırdığı eşsiz arkeolojik alanlar nedeniyle Yukarı Mısır'ın en önemli valiliklerinden biridir. On beş koleji olan büyük bir üniversiteye sahiptir. Daha önce Şeyh Ahmed Al-Fouli'nin adını taşıyan Minya Al-Fouli olarak adlandırılıyordu.",
       "fotourl": "https://github.com/hamed-3/project/blob/main/Minya.jpg?raw=true"
     }
   ]
