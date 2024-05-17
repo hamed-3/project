@@ -3,18 +3,17 @@
     {
       "isim": "cairo",
       "aciklama": "en güzel yer dünyada olabılır",
-      "fotourl": "https://raw.githubusercontent.com/hamed-3/deneme/main/rr.jpg"
+      "fotourl": "https://github.com/hamed-3/project/blob/main/cairo-guide.jpg?raw=true"
     },
     {
       "isim": "Giza",
       "aciklama": "çok eskı mısrda",
       "fotourl": "https://raw.githubusercontent.com/hamed-3/deneme/main/pir.jpg"
-      
     },
     {
-      "isim": "mınya",
+      "isim": "Minya",
       "aciklama": "çok eskı mısrda",
-      "fotourl": "https://raw.githubusercontent.com/hamed-3/deneme/main/rr.jpg"
+      "fotourl": "https://github.com/hamed-3/project/blob/main/Minya.jpg?raw=true"
     }
   ]
 }
