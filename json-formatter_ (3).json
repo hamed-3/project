@@ -1,14 +1,18 @@
 { "mısır" : [
     { 
-        "isim" :"cairo",
+        "isim" :"bgdad",
          "aciklama":"en güzel yer dünyada olabılır",
          "fotourl":"https://raw.githubusercontent.com/hamed-3/deneme/main/pir.jpg"
     },
     {
-        "isim":"Giza",
+        "isim":"osmanya",
+        "aciklama":"çok eskı mısrda",
+        "fotourl":"https://raw.githubusercontent.com/hamed-3/deneme/main/rr.jpg"
+    } ,
+    {
+        "isim":"karkuk",
         "aciklama":"çok eskı mısrda",
         "fotourl":"https://raw.githubusercontent.com/hamed-3/deneme/main/rr.jpg"
     } 
-
 
 ]}
